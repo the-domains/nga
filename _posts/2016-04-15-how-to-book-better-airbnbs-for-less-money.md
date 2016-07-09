@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-09T13:25:19.839Z'
+datePublished: '2016-07-09T13:25:36.954Z'
 sourcePath: _posts/2016-04-15-how-to-book-better-airbnbs-for-less-money.md
 inFeed: true
 isBasedOnUrl: >-
@@ -25,7 +25,7 @@ author:
   - name: '@jwmcgauley'
     url: 'https://www.twitter.com/@jwmcgauley'
     avatar: {}
-dateModified: '2016-07-09T13:24:30.471Z'
+dateModified: '2016-07-09T13:25:36.417Z'
 title: 'Facebook has been redesigned for profit: and teen suicide is a consequence. '
 app_links:
   - namespace: twitter
@@ -40,7 +40,7 @@ publisher:
 description: ' In the internet age, the connection between youth suicide and social media is indisputable. In the past decade alone there have been a handful of high-profile cyberbullicides--a term coined by researchers at the Cyberbullying Research Center to describe suicides directly or indirectly caused by cyberbullying. Tragically, a number of these suicides have been filmed or even streamed live on the internet: In 2008, Abraham Biggs, a community college student from Florida posted a suicide note to BodyBuilding.com before broadcasting his suicide over the now-defunct live-streaming website Justin.tv. His peers responded with anything but compassion; instead, some watchers encouraged him to “do it for real”; that is to take the lethal dose of medications he’d concocted, none of the viewers watching called the police until he was already unconscious. '
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
