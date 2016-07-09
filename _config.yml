@@ -1,0 +1,14 @@
+layout_spectrum: 0.3765690003056079
+typography_spectrum: 0.5619811783544719
+color:
+  brandStrength: 0.3495358875952661
+  lightness: 0.23605729453265667
+  saturation: 0.1401816327124834
+  rhythmicContrast: 0.280223191017285
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: NGA
